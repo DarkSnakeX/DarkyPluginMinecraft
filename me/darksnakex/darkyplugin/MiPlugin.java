@@ -1,4 +1,9 @@
 package me.darksnakex.darkyplugin;
+/*
+* DarkyPlugin by DarkSnakeX
+* Testing is required
+* Feel free to use anything you like
+*/
 
 
 import me.darksnakex.comandos.Comandoprincipal;
