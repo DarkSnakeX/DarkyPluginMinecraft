@@ -1,0 +1,3 @@
+Config:
+  mensaje-bienvenida: true
+  mensaje-bienvenida-texto: "&6Bienvenido al server &4Darkesianos, %player%"

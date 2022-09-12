@@ -1,0 +1,9 @@
+name: Darkyplugin # the plugins name as it should appear in the plugin list /pl
+version: 1.1 # the plugin's version
+author: DarkSnakeX
+main: me.darksnakex.darkyplugin.MiPlugin
+commands:
+  web:
+    description: Comando para obtener la pagina web
+  darky:
+    description: El comando principal del plugin
